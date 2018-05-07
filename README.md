@@ -1,3 +1,3 @@
 # hello-world
 hello-world for repository testing
-make and commit changes bye emallfly1830261
+and make commit changes bye emallfly1830261
